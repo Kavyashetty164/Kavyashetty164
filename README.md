@@ -1,21 +1,30 @@
+````markdown
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"> Hey there, I'm **Kavya Shree G N**
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&lines=✨+Welcome+to+My+Digital+Universe+✨;🎓+MCA+Student;🐍+Python+Developer;📊+Data+Analytics+Enthusiast;🛗+Problem+Solver;🚀+Learning+Through+Building" />
-
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kavya-gn-1a6a30322)
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kavyashetty164)
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kavyamurthy2004@gmail.com)
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=✨+Welcome+to+My+Digital+Universe+✨;🎓+MCA+Student;🐍+Python+Developer;📊+Data+Analytics+Enthusiast;🛗+Building+Real+World+Projects;🚀+Learning+Through+Innovation" />
 
 </div>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+<a href="https://www.linkedin.com/in/kavya-gn-1a6a30322">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Kavyashetty164">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:kavyashreegn@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </div>
 
 ---
@@ -25,96 +34,59 @@
 ## 👩‍💻 About Me
 
 ```python
-class KavyaShree:
+class Kavya:
 
-    def __init__(self):
+    education = "Master of Computer Applications"
 
-        self.education = "Master of Computer Applications"
+    college = "Presidency College, Bengaluru"
 
-        self.college = "Presidency College, Bengaluru"
+    skills = [
+        "Python",
+        "JavaScript",
+        "SQL",
+        "HTML",
+        "CSS",
+        "Power BI"
+    ]
 
-        self.location = "Bengaluru, India"
+    interests = [
+        "Software Development",
+        "Data Analytics",
+        "Machine Learning"
+    ]
 
-        self.skills = [
-            "Python",
-            "JavaScript",
-            "SQL",
-            "HTML",
-            "CSS",
-            "Power BI",
-            "Excel"
-        ]
+    current_focus = (
+        "Building practical software solutions"
+    )
 
-        self.interests = [
-            "Software Development",
-            "Data Analytics",
-            "Machine Learning"
-        ]
-
-    def motto(self):
-        return "Learn → Build → Improve → Repeat 🚀"
+    motto = (
+        "Learn → Build → Improve → Repeat 🚀"
+    )
 ```
 
 <br clear="right"/>
 
 ---
 
-## 🔥 Highlights
-
-🎓 MCA Student at Presidency College
-
-🏆 Oracle Cloud Infrastructure Data Science Professional
-
-🤖 AI/ML Intern @ InternPe
-
-🛗 Developed Elevator System Simulation
-
-🎭 Built Face Recognition Attendance System
-
-📊 Power BI Dashboard Developer
-
-🚀 Passionate About Problem Solving
-
----
-
 ## ⚔️ Technical Arsenal
 
-### 💻 Skills Snapshot
+### 💻 Programming Languages
 
 ```python
-skills = {
-    "Languages": [
-        "Python",
-        "JavaScript"
-    ],
-
-    "Web": [
-        "HTML",
-        "CSS"
-    ],
-
-    "Database": [
-        "SQL"
-    ],
-
-    "Analytics": [
-        "Power BI",
-        "Excel"
-    ],
-
-    "Tools": [
-        "Git",
-        "GitHub",
-        "VS Code"
-    ]
+languages = {
+    "Python": "Primary",
+    "JavaScript": "Intermediate",
+    "SQL": "Database Management"
 }
 ```
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=python,js,html,css,mysql,git,github,vscode"/>
-
 </p>
+
+---
+
+### 📊 Analytics & Tools
 
 <p align="center">
 
@@ -122,73 +94,24 @@ skills = {
 
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🛗 Elevator System Simulation
+<div align="center">
 
-```text
-Stack         ➜ Emergency Requests
-Queue         ➜ Normal Requests
-PriorityQueue ➜ VIP Requests
-```
+| 🏆 Project | 🛠️ Tech Stack | ✨ Highlights |
+|------------|--------------|--------------|
+| 🎭 Face Recognition Attendance System | Python, Flask, SQL, HTML, CSS, JS | Automated attendance with real-time face recognition |
+| 🛗 Elevator System Simulation | Stack, Queue, Priority Queue | Real-world simulation using Data Structures |
+| 📊 COVID-19 Vaccine Trend Analysis | Power BI, Excel | Interactive dashboards and visual analytics |
+| ☕ Coffee Shop Website | HTML, CSS, JavaScript | Responsive and user-friendly website |
 
-✨ Real-world Elevator Scheduling System
-
-✨ Demonstrates Core Data Structures
-
-✨ Efficient Request Management
-
-✨ Simulates Multi-floor Operations
-
----
-
-### 🎭 Face Recognition Attendance System
-
-```text
-Python + Flask + SQL + HTML + CSS + JavaScript
-```
-
-✔ Automated Attendance Tracking
-
-✔ Real-Time Face Recognition
-
-✔ Secure SQL Database Integration
-
-✔ Interactive Web Interface
-
----
-
-### 📊 COVID-19 Vaccine Trend Analysis
-
-```text
-Power BI + Excel
-```
-
-📈 Interactive Dashboards
-
-📊 Data Visualization
-
-🌍 Trend Analysis
-
-📌 Actionable Insights
-
----
-
-### ☕ Coffee Shop Website
-
-```text
-HTML + CSS + JavaScript
-```
-
-🌐 Fully Responsive Design
-
-🎨 Modern User Interface
-
-📱 Mobile-Friendly Experience
+</div>
 
 ---
 
@@ -199,10 +122,9 @@ HTML + CSS + JavaScript
 ```python
 experience = [
     "Artificial Intelligence Fundamentals",
-    "Machine Learning Concepts",
+    "Machine Learning Basics",
     "Data Analysis",
-    "Practical Model Building",
-    "Hands-on Project Experience"
+    "Practical Model Building"
 ]
 ```
 
@@ -220,39 +142,17 @@ experience = [
 
 ---
 
-## 🚀 2026 Roadmap
+## 🌟 Current Journey
 
-✅ Oracle OCI Certification
+🎓 Pursuing MCA at Presidency College
 
-✅ AI/ML Internship
+🐍 Strengthening Python Development Skills
 
-✅ Elevator System Simulation
+🛗 Building Data Structure Based Applications
 
-🔄 Advanced Python Projects
+📊 Exploring Data Analytics & Visualization
 
-🔄 Data Analytics Portfolio
-
-🔄 Open Source Contributions
-
-🎯 Placement Preparation
-
----
-
-## 📈 GitHub Analytics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kavyashetty164&show_icons=true&theme=radical"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavyashetty164&layout=compact&theme=radical"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Kavyashetty164&theme=radical&row=1&column=6"/>
-
-</p>
+🚀 Growing Through Real-World Projects
 
 ---
 
@@ -260,36 +160,27 @@ experience = [
 
 > "First, solve the problem. Then, write the code."
 
-> "Success is not final, failure is not fatal: it is the courage to continue that counts."
-
 ---
 
 ## 🤝 Let's Connect
 
-📧 **kavyamurthy2004@gmail.com**
+📧 **kavyashreegn@gmail.com**
 
-💼 **LinkedIn**  
+💼 **LinkedIn:**  
 https://www.linkedin.com/in/kavya-gn-1a6a30322
 
-🐙 **GitHub**  
+🐙 **GitHub:**  
 https://github.com/Kavyashetty164
-
----
-
-## 👀 Profile Views
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Kavyashetty164&style=for-the-badge&color=blueviolet"/>
-
-</p>
 
 ---
 
 <div align="center">
 
+<img src="https://komarev.com/ghpvc/?username=Kavyashetty164&style=for-the-badge&color=blueviolet"/>
+
 ### ⭐ Thanks for visiting my profile!
 
-<img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="400">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
 </div>
+````
