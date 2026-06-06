@@ -163,7 +163,7 @@ experience = [
 
 ## 🤝 Let's Connect
 
-📧 **kavyashreegn@gmail.com**
+📧 **kavyamurthy2004@gmail.com**
 
 💼 **LinkedIn:**  
 https://www.linkedin.com/in/kavya-gn-1a6a30322
